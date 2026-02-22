@@ -1,1 +1,1 @@
-
+pip install yfinance pandas sqlalchemy psycopg2-binary python-dotenv
